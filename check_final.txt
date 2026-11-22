@@ -1,0 +1,12 @@
+File: export_final.zip
+Ảnh: 22 · đã có frame_meta: 21 · số đối tượng: child_seat=14, face=12, face13=6, hand=11, infant_seat=6, object=6, person=12, phone=1
+  [WARN] D03.png: eye_right=open nhưng cả 4 điểm right_eye_* đều bị che: không thấy mắt thì eye_right nên là unknown
+  [WARN] D05.png: eye_right=open nhưng cả 4 điểm right_eye_* đều bị che: không thấy mắt thì eye_right nên là unknown
+  [ERROR] D06.png: cần đúng 1 tag frame_meta, đang có 0
+  [ERROR] S01_ir.png: child_seat: occupied='yes' không hợp lệ (cho phép: unknown, no)
+  [ERROR] S01_rgb.png: child_seat: occupied='yes' không hợp lệ (cho phép: unknown, no)
+  [ERROR] S03_ir.png: child_seat: occupied='yes' không hợp lệ (cho phép: unknown, no)
+  [ERROR] S03_rgb.png: child_seat: occupied='yes' không hợp lệ (cho phép: unknown, no)
+  [ERROR] S07_ir.png: child_seat: occupied='yes' không hợp lệ (cho phép: unknown, no)
+  [ERROR] S07_rgb.png: child_seat: occupied='yes' không hợp lệ (cho phép: unknown, no)
+Kết quả: 7 lỗi, 2 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.

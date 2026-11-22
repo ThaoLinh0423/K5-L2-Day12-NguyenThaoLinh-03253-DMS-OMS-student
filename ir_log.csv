@@ -1,0 +1,2 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+S02_ir,IR_sim,"Theo quan sát của người gán, ghế trẻ em dễ nhận ra hơn trên S02_ir so với S02_rgb.",child_seat,"Không chuyển box/nhãn chỉ thấy trên ảnh IR sang ảnh RGB; gán từng ảnh theo bằng chứng nhìn thấy và hỏi coach nếu không xác định được."
